@@ -5,6 +5,7 @@ h1 {
 }
 body {
     background-color: #EEA47F;
+    background-image: url("la-illusion-qiyana-splash.jpeg");
 }
 img {
     position: absolute;
@@ -73,4 +74,27 @@ h3 {
     transform: translate(-50%, -50%);
   }
  
-
+  .page1smurf {
+    display: inline-block; 
+    background-color: #4695D6; 
+    color: #4695D6;
+    text-decoration: none; 
+    border-radius: px; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    ;
+}
+.backtohomelink {
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: brown; 
+    color: antiquewhite;
+    text-decoration: none; 
+    border-radius: 3px; 
+    position: absolute;
+    top: 85%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
