@@ -1,0 +1,28 @@
+body {
+    background-color: #4695D6;
+    background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/002/652/421/280.jpg");
+}   
+.page1smurf {
+    display: inline-block; 
+    background-color: #4695D6; 
+    color: #4695D6;
+    text-decoration: none; 
+    border-radius: px; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    ;
+}
+.backtohomelink {
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: brown; 
+    color: antiquewhite;
+    text-decoration: none; 
+    border-radius: 3px; 
+    position: absolute;
+    top: 85%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}

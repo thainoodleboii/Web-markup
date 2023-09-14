@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 60px;
+}
+body {
+    background-color: #EEA47F;
+}
+img {
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    max-width: 690px;
+    position: absolute;
+    top: 31%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: antiquewhite;
+}
+h3 { 
+  text-align: center;
+    font-size: 30px;
+    max-width: 690px;
+    position: absolute;
+    top: 67%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  color: antiquewhite;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .mypicture {
+    display: inline-block; 
+    padding: 15px 15px; 
+    background-color: brown; 
+    color: #fff;
+    text-decoration: none; 
+    border: 2px solid  brown; 
+    border-radius: 100px; 
+  }
+  .surpriselink {
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: brown; 
+    color: antiquewhite;
+    text-decoration: none; 
+    border-radius: 3px; 
+    position: absolute;
+    top: 85%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+  }
+  .leaguelink {
+    display: inline-block; 
+    padding: 10px 57px; 
+    background-color: brown; 
+    color:antiquewhite;
+    text-decoration: none; 
+    border-radius: 3px; 
+    position: absolute;
+    top: 75%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+  }
+ 
+
